@@ -1,0 +1,7 @@
+.ozbekiston{
+    width: 125px;
+    height: 25px;
+    border-top: 25px solid blue;
+    border-bottom: 25px solid green;
+    background-color: white;
+}
